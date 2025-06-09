@@ -1,28 +1,28 @@
 # Miasto Cienia
 
-**Miasto Cienia** to mroczne, interaktywne RP prowadzone na Twitterze/X w klimacie urban fantasy z elementami tajemnicy, zagadki i odzyskiwania tożsamości.
+**Miasto Cienia** to interaktywne roleplay typu urban fantasy z elementami zagadki i utraconej tożsamości. Gra odbywa się na platformie X (Twitter), gdzie uczestnicy wcielają się w postacie oznaczone numerami, pozbawione wspomnień.
 
-## O co chodzi?
+## Na czym polega gra?
 
-Gracze wcielają się w postacie pozbawione imion i wspomnień. Mają tylko numer, tajemniczy przedmiot i sen. Poprzez udział w ankietach, rytuałach i wizjach stopniowo odzyskują fragmenty swojej tożsamości.
+Gracze:
+- otrzymują numer, przedmiot i sen,
+- odkrywają swoją przeszłość poprzez wizje, rytuały i decyzje społeczności,
+- komunikują się poprzez fabularne wpisy i interakcje z Mistrzem Gry (MG).
 
-## Kluczowe mechaniki
+Decyzje podejmowane są poprzez ankiety oraz „wolę miasta” (losowe mechanizmy narracyjne).
 
-- Ankiety Twitterowe: wpływają na przebieg fabuły i losy postaci
-- Rytuały Nocy: co tydzień miasto się zmienia – imiona, numery, dusze
-- Przedmioty i sny: zawierają wskazówki do przeszłości
-- Halucynacje, zamiany, wizje: losowane przez MG lub społeczność
+##  Zawartość repozytorium
 
-## Jak dołączyć?
+- `index.html` – strona startowa gry z sekcjami: Reguły, Starter Pack, Rytuały.
+- `README.md` – ten opis projektu.
+- (opcjonalnie) inne pliki fabularne lub formularze.
 
-1. Wypełnij formularz zgłoszeniowy (link pojawia się w ogłoszeniu MG)
-2. Otrzymasz numer, przedmiot i sen
-3. Śledź wydarzenia na Twitterze i weź udział w ankietach fabularnych
+## 🌐 Strona projektu
 
-## Kontakt
+Zobacz stronę:  
+👉 [https://twojanazwa.github.io/Miasto-Cienia/](https://twojanazwa.github.io/Miasto-Cienia/)
 
-Pytania? Napisz do nas na Twitterze: [@TWOJNICK](https://twitter.com/TWOJNICK)
+## 📩 Kontakt
 
----
-
-_Projekt prowadzony przez Mistrza Cienia. Wszystko się zmienia, ale nic nie znika._
+Projekt stworzony i prowadzony przez [@niebanalne](https://twitter.com/niebanalne).  
+Wszelkie pytania można kierować przez DM na X lub przez formularz na stronie.
