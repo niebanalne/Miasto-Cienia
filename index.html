@@ -3,9 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <title>Miasto Cienia</title>
+  <style>
+    .section { display: none; padding: 20px; border: 1px solid #ccc; margin-top: 10px; }
+    .btn { margin: 5px; padding: 10px 15px; cursor: pointer; background-color: #222; color: white; border: none; }
+    .active { display: block; }
+  </style>
 </head>
 <body>
-  <h1>Witaj w Mieście Cienia</h1>
-  <p>Oficjalna strona interaktywnego roleplayu.</p>
-</body>
-</html>
+
+<h1>Miasto Cienia</h1>
+
+<button class="btn" onclick="showSection('rules')">📜 Reguły</button>
+<button class="btn" onclick="showSection('starter')">🎒 Starter Pack</button>
+<button class="btn" onclick="showSection('rituals')">🌘 Rytuały</button>
+
+<div id="rules" class="section">
+  <h2>Reguły Gry</h2>
+  <p>W tym mieście nic nie jest pewne. P
